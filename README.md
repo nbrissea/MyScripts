@@ -1,5 +1,7 @@
-August 02, 2023
-My name is Nicolas 
+# Personnal Project 
+start Date : August 02, 2023
+## Object
 I'm interested in configuration deployment with Powershell or Ansible
-This is my personal library 
+
 Enjoy ;)
+
